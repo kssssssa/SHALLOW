@@ -1,0 +1,38 @@
+{
+  "files": {
+    "main.css": "/SHALLOW/static/css/main.40975470.css",
+    "main.js": "/SHALLOW/static/js/main.366b6fd2.js",
+    "static/media/19.jpg": "/SHALLOW/static/media/19.7b921c679260d1a33245.jpg",
+    "static/media/20.png": "/SHALLOW/static/media/20.0210b59ec81510fdf5d5.png",
+    "static/media/15.png": "/SHALLOW/static/media/15.5022313e39b32abf10b7.png",
+    "static/media/10.jpg": "/SHALLOW/static/media/10.286748c753620fb622c9.jpg",
+    "static/media/09.png": "/SHALLOW/static/media/09.1e5b3c356e7dd8435bb9.png",
+    "static/media/24.png": "/SHALLOW/static/media/24.eba38234da78f1b35cf9.png",
+    "static/media/13.png": "/SHALLOW/static/media/13.21dde2449fb2c142670a.png",
+    "static/media/07.png": "/SHALLOW/static/media/07.21511853d3266a7b9703.png",
+    "static/media/03.png": "/SHALLOW/static/media/03.63102a587402b5da9a9e.png",
+    "static/media/05.png": "/SHALLOW/static/media/05.f7bc4eb589030e3b49b3.png",
+    "static/media/06.png": "/SHALLOW/static/media/06.11b6ba3ba99a0d4ac5b9.png",
+    "static/media/01.png": "/SHALLOW/static/media/01.265c8e2e9634a260bed0.png",
+    "static/media/21.png": "/SHALLOW/static/media/21.f38899deb222671e6e2c.png",
+    "static/media/14.png": "/SHALLOW/static/media/14.799f72e185a6eb8e368d.png",
+    "static/media/23.png": "/SHALLOW/static/media/23.d6093c55c4006e03bdc7.png",
+    "static/media/S__1736724.jpg": "/SHALLOW/static/media/S__1736724.ae63fc203485c022d34c.jpg",
+    "static/media/12.png": "/SHALLOW/static/media/12.18a996638c7a5679a57b.png",
+    "static/media/11.png": "/SHALLOW/static/media/11.f65de81f88c57bb81899.png",
+    "static/media/17.png": "/SHALLOW/static/media/17.62d7330876dd6b5a6bce.png",
+    "static/media/04.png": "/SHALLOW/static/media/04.eb4f26ad33db50a4dd05.png",
+    "static/media/18.png": "/SHALLOW/static/media/18.36682768e384298f00e2.png",
+    "static/media/08.png": "/SHALLOW/static/media/08.a2e7f46354a7b2ea8018.png",
+    "static/media/02.png": "/SHALLOW/static/media/02.87e6da831afb3a443153.png",
+    "static/media/16.png": "/SHALLOW/static/media/16.9feb917c896380ca5688.png",
+    "static/media/22.jpg": "/SHALLOW/static/media/22.fc0976342baf44b702d9.jpg",
+    "index.html": "/SHALLOW/index.html",
+    "main.40975470.css.map": "/SHALLOW/static/css/main.40975470.css.map",
+    "main.366b6fd2.js.map": "/SHALLOW/static/js/main.366b6fd2.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.40975470.css",
+    "static/js/main.366b6fd2.js"
+  ]
+}
