@@ -1,0 +1,122 @@
+* {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+}
+
+.banner {
+  background-image: url("https://i.imgur.com/iDDZo3w.jpg");
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: bottom center;
+  height: 100vh;
+  color: #fff;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  text-align: center;
+  position: relative;
+  z-index: -2;
+}
+
+.banner_text {
+  text-shadow: 1px 1px 5px rgb(82, 78, 79);
+}
+
+.banner_text h1 {
+  font-size: 4rem;
+
+  font-weight: 500;
+  line-height:80px;
+  color:#fff
+}
+
+.about {
+  display: flex;
+  justify-content: space-around;
+  flex-flow: column;
+  margin: 3rem 12rem;
+
+}
+.about__title {
+  font-size: 3rem;
+  font-weight: 500;
+  padding: 0.5rem 0;
+  align-self:flex-start;
+  color: #b9b7ab;
+}
+
+.about__img {
+ width: 45rem;
+ height: auto;
+ align-self: center;
+ margin: 0 1.5rem;
+}
+
+.about p {
+  min-width: none;
+  font-size: 1.2rem;
+  margin: 1.5rem 1.5rem;
+  line-height:2rem;
+  align-self:center;
+}
+
+.about div {
+display: flex;
+justify-content: center;
+margin: 10px 0;
+}
+
+
+@media (max-width:1100px){
+  .about{
+    margin: 3rem 8rem;
+  }
+  .about__img {
+    width: 38rem;
+    height: auto;
+   }
+}
+
+
+@media (max-width:900px){
+  .about{
+    margin: 3rem 5rem;
+  }
+  .about__img {
+    width: 32rem;
+    height: auto;
+   }
+}
+
+
+@media screen and (max-width:720px) {
+  .about{
+    display: flex;
+    flex-flow: wrap;
+    margin: 1rem 4rem;
+    
+  }
+
+  .about div {
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    }
+
+  .about__img {
+    width: 30rem;
+    height: auto;
+    margin-bottom:2rem ;
+  }
+
+  .about p {
+    min-width: none;
+    font-size: 1.2rem;
+    margin: 1.5rem 1.5rem;
+    line-height:2rem;
+    inline-size: 30rem;
+  }
+  
+
+}
