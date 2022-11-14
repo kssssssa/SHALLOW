@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/SHALLOW/static/css/main.40975470.css",
-    "main.js": "/SHALLOW/static/js/main.366b6fd2.js",
+    "main.js": "/SHALLOW/static/js/main.ebd8b830.js",
     "static/media/19.jpg": "/SHALLOW/static/media/19.7b921c679260d1a33245.jpg",
     "static/media/20.png": "/SHALLOW/static/media/20.0210b59ec81510fdf5d5.png",
     "static/media/15.png": "/SHALLOW/static/media/15.5022313e39b32abf10b7.png",
@@ -29,10 +29,10 @@
     "static/media/22.jpg": "/SHALLOW/static/media/22.fc0976342baf44b702d9.jpg",
     "index.html": "/SHALLOW/index.html",
     "main.40975470.css.map": "/SHALLOW/static/css/main.40975470.css.map",
-    "main.366b6fd2.js.map": "/SHALLOW/static/js/main.366b6fd2.js.map"
+    "main.ebd8b830.js.map": "/SHALLOW/static/js/main.ebd8b830.js.map"
   },
   "entrypoints": [
     "static/css/main.40975470.css",
-    "static/js/main.366b6fd2.js"
+    "static/js/main.ebd8b830.js"
   ]
 }
